@@ -1,6 +1,1 @@
-# you must use tabs, not spaces!
-all: 
-		Rscript "makefile.R"
-	 
-clean:
-		rm -rf .drake
+debug at #2: makefile_head(config)
